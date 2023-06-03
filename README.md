@@ -26,3 +26,5 @@ To figure this sort of thing out, mainly you just need to look at the data and d
 This is all I want for a first start, then later on I want to scrape the actual conference data and put it all into a database. At first just putting it into a json file will be easier. Also I have a few recommendations. If you use the requests library to pull html files, not that you might get an error sometimes because it might have troubles reaching the server for various reasons (networks are mysterious sometimes). I recommend saving the html file with a first python script (eg: gethtml.py) then reading it into a second python program (eg: processHTML.py). This will be faster and less error prone.
 
 If you have any questions please ask me or chatgpt.
+
+Also please make a github account. Once you do you can become a contributor to this project and you can push the code here and I can see it and lyk what I think. Setting up github as a CLI on your laptop can be finicky so if you can't figure that out yourself (or if its taking to long) just push the files to here using the web GUI and I can help you setup the CLI sometime.
